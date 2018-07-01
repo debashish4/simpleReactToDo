@@ -35,7 +35,6 @@ export default class Todo extends Component {
     }
 
     handleDeleteItem(itemPos) {
-        console.log('sdf', itemPos);
         let allNotes = Array.from(this.state.notes);
         allNotes.splice(itemPos, 1);
         this.setState({
