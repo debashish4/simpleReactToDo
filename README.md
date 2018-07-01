@@ -1,5 +1,5 @@
 # React based Simple To Do list
-This app is a very simple todo list manager made react JS.
+This app is a very simple todo list manager made using react JS.
 
 # How to Run
 1.```npm install```
