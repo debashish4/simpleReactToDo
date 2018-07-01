@@ -5,14 +5,14 @@
 
 
 <h3>
-    # How to Run
+    How to Run
 </h3>
 <ul>
-    <li>npm install</li>
-    <li>npm start</li>
+    <li><code>npm install</code></li>
+    <li><code>npm start</code></li>
 </ul>
 
 <h3>
-    #See the demo
+    See the demo
 </h3>
 <a href="https://debashish4.github.io/simpleReactToDo" target="_blank">To Do list Demo</p>
