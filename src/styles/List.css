@@ -1,0 +1,6 @@
+.list-box .todo-name, .list-box .button-box{
+    display: inline;
+}
+.list-box .button-box{
+    float: right;
+}

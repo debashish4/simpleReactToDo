@@ -1,0 +1,14 @@
+.button-box button{
+    background:coral;
+    color: #fff;
+    padding: 10px;
+    min-width: 50px;
+    border: none;
+}
+.button-box button:hover{
+    background:rgb(166, 219, 87);
+    color: #fff;
+    padding: 10px;
+    min-width: 50px;
+    border: none;
+}

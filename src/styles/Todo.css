@@ -1,0 +1,9 @@
+.todo-box .input-box, .todo-box .button-box{
+    display:inline;
+}
+.todo-box{
+    background: #fff;
+    width: 229px;
+    margin:10% auto;
+
+}
