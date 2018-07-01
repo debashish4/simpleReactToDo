@@ -1,12 +1,18 @@
-### React based Simple To Do list
+<h3>
+    React based Simple To Do list
+</h3>
+<p>This app is a very simple todo list manager made using react JS.</p>
 
-This app is a very simple todo list manager made using react JS.
 
-### \# How to Run
+<h3>
+    # How to Run
+</h3>
+<ul>
+    <li>npm install</li>
+    <li>npm start</li>
+</ul>
 
--   npm install
--   npm start
-
-### \#See the demo
-
-To Do list Demo
+<h3>
+    #See the demo
+</h3>
+<a href="https://debashish4.github.io/simpleReactToDo" target="_blank">To Do list Demo</p>
